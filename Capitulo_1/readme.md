@@ -22,10 +22,13 @@
    <img align="center" height="350" width="350" src = "https://user-images.githubusercontent.com/43351342/232507850-d271d8dd-15e4-4ffe-846c-73c36cb60c22.png">
 
 <h3> Vendo diferentes tempos de execução Big O </h3>
-<h4>Os diferentes tempos de execução da notação Big O são usados para medir a eficiência de um algoritmo em relação ao tamanho da entrada. Existem vários tipos de tempos de execução, sendo os mais comuns os seguintes:</h4>
-<h4></h4>
+<h4>A notação Big O é usada para medir a eficiência de um algoritmo em relação ao tamanho da entrada. Aqui segue um exemplo prático que pode ser executado em casa com um pedaço de papel: Suponha que vocÊ tenha que desenhar uma grade com 16 divisões</h4>
+ <img align="center" height="350" width="350" src = "https://user-images.githubusercontent.com/43351342/232574783-bb186bc5-2e38-48db-ac3a-bdfa9378c2aa.png">
 
-
+<h3>Algoritmo 1</h3>
+<h4>Uma forma de solucionar o problema seria desenhando no papel uma divisão de casa vez. A notação Big O conta o número de operações. Nesse exemplo seriam 16 divisões. </h4>
+<h3>Algoritmo 2</h3>
+<h4> A segunda forma seria dobrando o papel. Ao fazer isso você execulta duas diisões em uma única dobra(operação). Seria necessário apenas 4 dobras para você fazer as 16 operações.</h4>
 
 
 
