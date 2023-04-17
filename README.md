@@ -34,7 +34,7 @@ Estudo do livro "Entendendo Algoritmos: um guia ilustrado para programadores e o
   <h4>• Classificando laranja versus toranjas <br>• Criando um sistema de recomendação <br>• Introdução ao aprendizado de máquina </h4>
 
 <h3> 📄 Capítulo 11: Próximos passos</h3>
-  <h4>• Árvores <br> Índices invertidos <br>• A transformação de Fourier <br>• Algoritmos paralelos <br>• MapReduce <br> Filtro Bloom e HyperLogLog <br>• Algoritmo SHA <br>• Hash sensitivo local <br>• Troca de chaves de Diffie-Hellman <br>• Programação linear </h4>
+  <h4>• Árvores <br> Índices invertidos <br>• A transformação de Fourier <br>• Algoritmos paralelos <br>• MapReduce <br>• Filtro Bloom e HyperLogLog <br>• Algoritmo SHA <br>• Hash sensitivo local <br>• Troca de chaves de Diffie-Hellman <br>• Programação linear </h4>
 
 
 
