@@ -1,7 +1,7 @@
 # Livro Entendendo Algoritmos 📖
-Estudo do livro "Entendendo Algoritmos: um guia ilustrado para programadores e outros curiosos".
+Estudo do livro "Entendendo Algoritmos: um guia ilustrado para programadores e outros curiosos de Abitya Y. Bhargava".
 
-<img align="center" alt="Rafa-HTML" height="510" width="690" src= https://user-images.githubusercontent.com/43351342/232360285-03dd712f-6b8f-496c-8cbe-ed2d61526406.jpg >
+<img align="center" alt="Rafa-HTML" height="500" width="500" src="https://user-images.githubusercontent.com/43351342/232616860-82f00ae9-a25d-4de9-a0ee-c248aaadcdf0.jpg">
 
 <h3> 📄 Capítulo 1: Introdução a algoritmos</h3>
   <h4>• Introdução <br>• Pesquisa binária <br>• Notação Big O</h4>
