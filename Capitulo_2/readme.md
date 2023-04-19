@@ -1,7 +1,7 @@
 <h1> Ordenação por Seleção</h1> 
 
 <h2>📄 Neste capítulo </h2>
-<h4>• Você conhecerá arrays e lists encadeadas <br>• Vai conseguir escrever o seu primeiro de ordenação</h4>
+<h4>• Você conhecerá arrays e listas encadeadas <br>• Vai conseguir escrever o seu primeiro de ordenação</h4>
 
 <h2>🧠 Conceitos interessantes: </h2>
 <h3> O que são Arrays e Listas encadeadas? </h3>
